@@ -2,7 +2,7 @@
   Weather analysis using SQLite 
 ## Overview of Project
 
-###Purpose
+### Purpose
     The purpose of this analysis was to assist potential investors of the Surf and Shake Shop in determining that opening a store front in Awahoo, Hawaii will provide them with a great return. We've analyzed weather patern data from this specific island to prove that the weather is often optimal and will not deter foot traffic to the location.   
 
 ## Results
